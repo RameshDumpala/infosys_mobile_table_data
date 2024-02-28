@@ -1,0 +1,17 @@
+/* .mainapp_div{
+    display: flex;
+    justify-content:start;
+  } */
+  
+  .App_div{
+    width:333px;
+    height: 582px;
+    box-shadow: 0 9px 12px -5px rgba(0, 0, 0, 0.16), 0 -2px 12px -5px rgba(0, 0, 0, 0.16);
+    background-color: #FFFF;
+  }
+  p{
+    color: blue;
+    line-height: 70px;
+    margin-left: 15px;
+    cursor: pointer;
+  }

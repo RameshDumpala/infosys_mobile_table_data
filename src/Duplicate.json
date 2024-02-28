@@ -1,0 +1,71 @@
+[
+{
+    "title":"Sub LOB",
+    "access":"device_sub_lob"
+
+},
+{
+    "title":"Serial No",
+    "access":"device_serial_nr"
+
+},
+{
+    "title":"IMEI No",
+    "access":"device_imei_nr"
+
+},
+{
+    "title":"Color/size",
+    "access":"color_size"
+},
+{
+    "title":"Category",
+    "access":"category_desc"
+
+},
+{
+    "title":"Os Ver",
+    "access":"os_version_cd"
+
+},
+{
+    "title":"Status",
+    "access":"device_status_desc"
+
+},
+{
+    "title":"Device Content",
+    "access":"device_content_up_to_date"
+
+},
+{
+    "title":"DC Status",
+    "access":"dc_status"
+
+},
+{
+    "title":"DC Active Pricing",
+    "access":"dc_active_pricing"
+
+},
+{
+    "title":"DDL Status",
+    "access":"derived_digital_security_status"
+
+},
+{
+    "title":"DCOTA Supported",
+    "access":"dcota_supported_lob"
+
+},
+{
+    "title":"Bettery Available",
+    "access":"device_battery_life_available"
+
+},
+{
+"device_number":"device_action_item"
+}
+]
+
+ 
